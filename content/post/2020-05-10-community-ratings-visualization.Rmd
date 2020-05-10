@@ -21,6 +21,7 @@ Yesterday night I happened to find [Isabella's dataset](https://www.kaggle.com/i
 
 ### Things I noticed:  
 Last month I rewatched the whole show so I had a few thought that got confirmed by the data:  
+
 * The first three seasons had the best reception and season 4 had the lowest ratings. The absence of Dan Harmon was noticeable.  
 * Modern Warfare was the best-rated episode (my favorite in fact).  
 
