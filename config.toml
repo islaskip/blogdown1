@@ -1,4 +1,4 @@
-baseURL = "http://www.matiasisla.netfily.com/"
+baseURL = "http://www.matiasisla.netfily.app/"
 languageCode = "en-us"
 title = "Matías Isla"
 theme = "hugo-lamp"
