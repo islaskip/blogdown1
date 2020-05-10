@@ -11,8 +11,6 @@ tags:
 
 It's been two weeks since I started to learn to use R and it has been a huge challenge since I don't really have a background in terms of programming. To learn I've done a few courses over edX and I've followed some youtube tutorials but I haven't really done any project of my own... until now!  
 
-<!--more-->  
-
 It's been two weeks since I started to learn to use R and it has been a huge challenge since I don't really have a background in terms of programming. To learn I've done a few courses over edX and I've followed some youtube tutorials but I haven't really done any project of my own... until now!  
 Yesterday night I happened to find [Isabella's dataset](https://www.kaggle.com/imbenab/community-episodes-imdb-ratings) of the IMDb ratings of the popular show Community. I downloaded it just for fun and I discovered that it was an easy, ready-to-use dataset.  
 4 hours later I realized my knowledge of R is really basic and even simple tasks like plotting clean datasets are a true challenge. However, even if it took me a little more time than I expected, I managed to plot the following Violin Plot of the Community's rating over each season highlighting a few episodes which had incredible high (or low) ratings:
