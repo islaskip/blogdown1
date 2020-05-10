@@ -1,4 +1,4 @@
-baseURL = "http://localhost:1313/"
+baseURL = "http://www.matiasisla.netfily.com/"
 languageCode = "en-us"
 title = "Matías Isla"
 theme = "hugo-lamp"
