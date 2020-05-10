@@ -2,7 +2,7 @@ baseURL = "http://matiasisla.netlify.app/"
 languageCode = "en-us"
 title = "Matías Isla"
 theme = "hugo-lamp"
-googleAnalytics = "UA-XXX-X"          # Google Analytics UA number
+googleAnalytics = "UA-49717851-2"          # Google Analytics UA number
 
 [params]
   mainSections = ["posts"]
