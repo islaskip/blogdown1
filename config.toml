@@ -1,0 +1,48 @@
+baseURL = "http://localhost:1313/"
+languageCode = "en-us"
+title = "Matías Isla"
+theme = "hugo-lamp"
+googleAnalytics = "UA-XXX-X"          # Google Analytics UA number
+
+[params]
+  mainSections = ["posts"]
+  subtitle = "Public Administration and Political Science student learning to use R"
+  author = "Huy Nguyen"
+  logo = "/img/avatar2.jpg"
+  description = "Matías Isla"
+  paginate = 10
+
+  # Publisher
+  ## adsensePublisher = "ca-pub-XXX"    # Required if you want to include Google Adsense
+  adsenseSlot = "XXX"                   # Required slot to display ads
+  adsenseSlotSticky = "XXX"             # Enables sticky ads feature, value maybe the same with adsenseSlot, remove if you don't want display sticky ads
+
+  # SEO configs
+  seotitle = "Matías Isla"
+  googleSiteVerification = "google_site_verification_code"    # Google Webmaster
+  msValidate = "bing_site_verification_code"                  # Bing Webmaster
+
+  # Social networks
+  email = "misla2016@udec.cl"
+  twitter = "Islaskip"
+
+
+[taxonomies]
+  tag = "tags"
+  category = "categories"
+
+[[menu.main]]
+  name = "Home"
+  weight = 1
+  identifier = "posts"
+  url = "/"
+[[menu.main]]
+  name = "AMP Project"
+  weight = 2
+  identifier = "amp"
+  url = "/amp/"
+[[menu.main]]
+  name = "Tags"
+  weight = 3
+  identifier = "tags"
+  url = "/tags/"
